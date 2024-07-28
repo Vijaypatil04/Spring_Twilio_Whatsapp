@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringTwilioApplication {
 
 	public static void main(String[] args) {
-		System.out.print("vijay");
+		System.out.println("vijay");
 		SpringApplication.run(SpringTwilioApplication.class, args);
 	}
 
