@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Bean;
 public class SpringTwilioApplication {
 
 	public static void main(String[] args) {
+		System.out.print("vijay");
 		SpringApplication.run(SpringTwilioApplication.class, args);
 	}
 
